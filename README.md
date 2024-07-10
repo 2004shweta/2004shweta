@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shweta Jaiswal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="center" alt="Coding" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVhZnZxMHR2eHd3cDVld3dkamE3aHplZ3U1OW1wZ3E1aTZ2MTN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVhZnZxMHR2eHd3cDVld3dkamE3aHplZ3U1OW1wZ3E1aTZ2MTN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shweta&label=Profile%20views&color=0e75b6&style=flat" alt="2004shweta" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java,DSA**
 
-- 📫 How to reach me **jaiswalshweta021@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
