@@ -1,6 +1,5 @@
 <!-- Banner or Profile Image (optional) -->
 
-
 <h1 align="center">Shweta Jaiswal</h1>
 <p align="center">
   <strong>Full Stack Developer | Java Enthusiast | Open Source Contributor</strong>
@@ -32,6 +31,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -44,12 +45,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
-
-
-
 
 ### 🏆 Achievements
 
