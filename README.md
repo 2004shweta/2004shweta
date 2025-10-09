@@ -189,10 +189,10 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>**My Yearly Contribution Activity**</h3>
   <img src="https://raw.githubusercontent.com/2004shweta/2004shweta/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
+</div> -->
 
 <p align="center">
   </p>
@@ -208,9 +208,6 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
     <img src="https://img.shields.io/badge/Say_Hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/shwetajaiswal" alt="Connect on LinkedIn"/>
   </a>
   
-  <p>
-    <small>_This README is automatically updated_ ⚙️</small>
-  </p>
 </div>
 
 ---
