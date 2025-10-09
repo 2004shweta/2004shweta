@@ -121,7 +121,7 @@
 I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in creating **robust and scalable web applications**. My development philosophy centers on leveraging **Java** for backend power and cutting-edge **JavaScript/TypeScript** frameworks like **React** and **Next.js** for dynamic frontend experiences.
 
 - 💻 **Current Focus**: Deep diving into modern cloud-native architectures and refining my skills in **Data Structures & Algorithms** with a strong emphasis on Java.
-- 🌱 **Learning**: Exploring **DevOps** principles and advanced state management patterns.
+- 🌱 **Learning**: Building **Spring Boot** microservices, containerizing with **Docker**, and implementing messaging with **RabbitMQ**.
 - 🤝 **Collaboration**: Always open to contributing to exciting **Open Source** projects and collaborating on innovative web solutions.
 
 ---
