@@ -88,14 +88,15 @@
 # Hi there! I'm **Shweta Jaiswal** <img src="https://media.giphy.com/media/hvRJCLFzjrwpXScWJc/giphy.gif" width="30px">
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
+</picture>
 
 ##  Full Stack Developer | Java Enthusiast | Open Source Contributor
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
-</picture>
+
 
 <p>
   <a href="https://linkedin.com/in/shwetajaiswal" target="_blank" rel="noopener noreferrer">
@@ -128,7 +129,6 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>**Languages & Frameworks**</h3>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -139,8 +139,6 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
   </p>
-  
-  <h3>**Databases & Styling**</h3>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -148,8 +146,6 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="shadcn/ui"/>
   </p>
-  
-  <h3>**Tools & Platforms**</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -163,8 +159,6 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
 ## 🏆 GitHub & Open Source Achievements
 
 <div align="center">
-
-  <h3>**GSSoC'24 Contributions**</h3>
   <p>Acknowledging significant contributions during GirlScript Summer of Code '24.</p>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" alt="GSSoC Badge 1"/>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" alt="GSSoC Badge 2"/>
