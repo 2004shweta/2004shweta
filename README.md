@@ -169,16 +169,16 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
 
 ---
 
-## 📈 My Developer Dashboard
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/2004shweta">
     <img src="https://github-readme-stats.vercel.app/api?username=2004shweta&show_icons=true&theme=gotham&hide_border=true&count_private=true&title_color=94a3b8&icon_color=60a5fa&text_color=ffffff&bg_color=000000" height="190" alt="Shweta's GitHub Stats" />
   </a>
   <a href="https://github.com/2004shweta">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2004shweta&layout=compact&theme=gotham&hide_border=true&langs_count=6&title_color=94a3b8&icon_color=60a5fa&text_color=ffffff&bg_color=000000" height="190" alt="Top Languages" />
   </a>
-</div>
+</div> -->
 
 
   <!-- <a href="https://github.com/2004shweta">
