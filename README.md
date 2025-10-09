@@ -201,7 +201,7 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in c
 <div align="center">
   <p>Interested in collaborating on a project or just want to chat about Java, React, or DSA? Reach out!</p>
   
-  <a href="https://linkedin.com/in/shwetajaiswal" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/shwetajaiswal021/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Say_Hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/shwetajaiswal" alt="Connect on LinkedIn"/>
   </a>
   
