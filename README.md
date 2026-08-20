@@ -1,210 +1,155 @@
-<!-- Banner or Profile Image (optional) -->
-
-<!-- <h1 align="center">Shweta Jaiswal</h1>
-<p align="center">
-  <strong>Full Stack Developer | Java Enthusiast | Open Source Contributor</strong>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/shwetajaiswal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_jaiswalshweta021" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/jaiswalshweta" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jaiswalsh4s08" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
-
----
-
-> 👋 Hi, I'm Shweta!  
-> I'm a passionate Full Stack Developer from India, currently focused on building scalable web applications and learning modern frameworks like ReactJS.  
-> I love solving problems with Java and Data Structures & Algorithms, and I'm always open to collaborating on exciting projects.
-
----
-
-### 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=flat&logo=tailwindcss&logoColor=white" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2004shweta&show_icons=true&theme=default" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2004shweta&layout=compact&theme=default" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2004shweta&theme=default" height="180" />
-</p>
-
----
-
-<details>
-<summary><b>📫 Contact Me</b></summary>
-<p>
-  <a href="mailto:jaiswalshweta021@gmail.com">jaiswalshweta021@gmail.com</a>
-</p>
-</details> -->
 
 <div align="center">
 
-# Hi there! I'm **Shweta Jaiswal** <img src="https://media.giphy.com/media/hvRJCLFzjrwpXScWJc/giphy.gif" width="30px">
+# Shweta Jaiswal
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Building+Scalable+Web+Solutions;Mastering+Modern+Full+Stack+Development;Always+Learning+New+Technologies" />
-</picture>
+```text
+> Backend Engineer in progress.
+> Writing Java. Building APIs. Breaking things. Fixing them.
+````
 
-##  Full Stack Developer | Java Enthusiast | Open Source Contributor
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shwetajaiswal2004/)
+[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/jaiswalshweta)
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jaiswalshweta021@gmail.com)
 
-
-
-<p>
-  <a href="https://linkedin.com/in/shwetajaiswal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:jaiswalshweta021@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.leetcode.com/jaiswalshweta" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jaiswalsh4s08" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-  </a>
-</p>
 </div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in creating **robust and scalable web applications**. My development philosophy centers on leveraging **Java** for backend power and cutting-edge **JavaScript/TypeScript** frameworks like **React** and **Next.js** for dynamic frontend experiences.
+```java
+public class Developer {
 
-- 💻 **Current Focus**: Deep diving into modern cloud-native architectures and refining my skills in **Data Structures & Algorithms** with a strong emphasis on Java.
-- 🌱 **Learning**: Building **Spring Boot** microservices, containerizing with **Docker**, and implementing messaging with **RabbitMQ**.
-- 🤝 **Collaboration**: Always open to contributing to exciting **Open Source** projects and collaborating on innovative web solutions.
+    private final String name = "Shweta Jaiswal";
+
+    private final String[] interests = {
+        "Backend Development",
+        "Distributed Systems",
+        "REST APIs",
+        "Databases",
+        "Problem Solving"
+    };
+
+    private final String currentlyBuilding =
+        "Scalable backend applications with Java & Spring Boot";
+
+    public void keepLearning() {
+        while (true) {
+            build();
+            breakThings();
+            debug();
+            learn();
+        }
+    }
+}
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## `$ cat tech-stack`
+
+### languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
+
+### backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+### databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman" />
+
+---
+
+## `$ tree ./skills`
+
+```text
+skills
+│
+├── backend
+│   ├── Java
+│   ├── Spring Boot
+│   ├── REST APIs
+│   ├── Authentication / JWT
+│   └── Node.js
+│
+├── databases
+│   ├── MySQL
+│   ├── PostgreSQL
+│   └── MongoDB
+│
+├── frontend
+│   ├── React
+│   ├── Next.js
+│   └── TypeScript
+│
+├── devops
+│   ├── Docker
+│   ├── Git
+│   └── GitHub
+│
+└── cs-fundamentals
+    ├── DSA
+    ├── OOP
+    ├── DBMS
+    ├── OS
+    └── Computer Networks
+```
+
+---
+
+## `$ git log --achievements`
+
+```text
+[2026] Solving 300+ Data Structures & Algorithms problems
+[2025] Building full-stack and backend applications
+[2024] GirlScript Summer of Code Contributor
+[2024] Postman API Fundamentals Student Expert
+[....] National-level Chess Player
+```
+
+---
+
+## `$ ./currently-learning`
+
+```text
+→ Spring Boot & Spring Data JPA
+→ Microservices Architecture
+→ Docker & Containerization
+→ RabbitMQ & Asynchronous Messaging
+→ System Design
+→ Writing cleaner backend code
+```
+
+---
+
+## `$ echo $PHILOSOPHY`
+
+```text
+"First make it work.
+ Then make it clean.
+ Then make it scalable."
+```
+
+---
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="shadcn/ui"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  </p>
+
+```text
+$ ping shweta
+
+Interested in backend development, open source,
+interesting problems, and building cool stuff.
+
+status: online
+```
+
 </div>
+```
 
----
-
-## 🏆 GitHub & Open Source Achievements
-
-<div align="center">
-  <p>Acknowledging significant contributions during GirlScript Summer of Code '24.</p>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" alt="GSSoC Badge 1"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" alt="GSSoC Badge 2"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" alt="GSSoC Badge 3"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" alt="GSSoC Badge 4"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" alt="GSSoC Badge 5"/>
-</div>
-
----
-
-
-
-<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/2004shweta">
-    <img src="https://github-readme-stats.vercel.app/api?username=2004shweta&show_icons=true&theme=gotham&hide_border=true&count_private=true&title_color=94a3b8&icon_color=60a5fa&text_color=ffffff&bg_color=000000" height="190" alt="Shweta's GitHub Stats" />
-  </a>
-  <a href="https://github.com/2004shweta">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2004shweta&layout=compact&theme=gotham&hide_border=true&langs_count=6&title_color=94a3b8&icon_color=60a5fa&text_color=ffffff&bg_color=000000" height="190" alt="Top Languages" />
-  </a>
-</div> -->
-
-
-  <!-- <a href="https://github.com/2004shweta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2004shweta&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=60a5fa&fire=60a5fa&side_icon=ffffff&currStreakNum=ffffff&currStreakLabel=94a3b8&stroke=000000&background=000000" height="190" alt="GitHub Streak" />
-  </a> -->
- 
-
-<!-- <div align="center">
-  <h3>**My Yearly Contribution Activity**</h3>
-  <img src="https://raw.githubusercontent.com/2004shweta/2004shweta/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div> -->
-
-<p align="center">
-  </p>
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-  <p>Interested in collaborating on a project or just want to chat about Java, React, or DSA? Reach out!</p>
-  
-  <a href="https://www.linkedin.com/in/shwetajaiswal021/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Say_Hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/shwetajaiswal" alt="Connect on LinkedIn"/>
-  </a>
-  
-</div>
-
----
